@@ -1,4 +1,4 @@
-# online-job-portal#
+# online-job-portal
 
 A web-based job portal built for connecting employers and job seekers.
 
